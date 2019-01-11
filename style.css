@@ -1,0 +1,13 @@
+table{
+    border: 1px white solid;
+}
+.head{
+    background-image: linear-gradient(to bottom, #7cbf44 87%, #83c53f, #8bcc39, #93d233, #9cd82a);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+td{
+    width: 130px;
+    height: 50px;
+
+}
